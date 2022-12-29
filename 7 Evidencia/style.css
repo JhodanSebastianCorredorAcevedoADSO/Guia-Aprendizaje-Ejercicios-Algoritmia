@@ -1,0 +1,27 @@
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(78, 150, 233);
+}
+
+.envio{
+    text-align: center;
+    font-size: 40px;
+}
+
+button{
+    font-size: 30px;
+}
+
+input{
+    font-size: 30px;
+}
+
+.resultado{
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+}
